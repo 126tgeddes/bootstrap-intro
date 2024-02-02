@@ -1,0 +1,7 @@
+.container, .container-lg{
+    background-color: dodgerblue;
+}
+
+.col {
+    border: 1px solid rgb(241, 50, 50);
+}
